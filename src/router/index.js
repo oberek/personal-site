@@ -32,5 +32,5 @@ export default new Router({
       component: Contact
     }
   ]
-  // , mode: 'history'
+  , mode: 'history'
 })
